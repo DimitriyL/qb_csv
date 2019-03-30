@@ -1,0 +1,2 @@
+Week,Opponent,Start,SuccPlays,PI,FailPlays,TotPlays,SuccRate,SuccYards,FailYards,TotYards,SYardsPerP,FYardsPerP,YardsPerP,PassSuccPlays,PassFailPlays,PassTotPlays,PassSuccYards,PassFailYards,PassTotYards,PassSuccRate,PSuccYPP,PFailYPP,PYPP
+1,Bills,Yes,18.0,1.0,20.0,38.0,0.48717948717948717,218.0,21.0,239.0,5.7368421052631575,0.5526315789473685,6.2894736842105265,17.0,18.0,35.0,215.0,21.0,236.0,0.4857142857142857,6.142857142857143,0.6,6.742857142857143

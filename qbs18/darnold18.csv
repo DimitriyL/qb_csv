@@ -1,0 +1,2 @@
+Week,Opponent,Start,SuccPlays,PI,FailPlays,TotPlays,SuccRate,SuccYards,FailYards,TotYards,SYardsPerP,FYardsPerP,YardsPerP,PassSuccPlays,PassFailPlays,PassTotPlays,PassSuccYards,PassFailYards,PassTotYards,PassSuccRate,PSuccYPP,PFailYPP,PYPP
+1,Lions,Yes,16.0,1.0,8.0,24.0,0.68,201.0,-15.0,186.0,8.375,-0.625,7.75,15.0,6.0,21.0,195.0,3.0,198.0,0.7142857142857143,9.285714285714286,0.14285714285714285,9.428571428571429

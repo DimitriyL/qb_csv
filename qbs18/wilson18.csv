@@ -1,0 +1,2 @@
+Week,Opponent,Start,SuccPlays,PI,FailPlays,TotPlays,SuccRate,SuccYards,FailYards,TotYards,SYardsPerP,FYardsPerP,YardsPerP,PassSuccPlays,PassFailPlays,PassTotPlays,PassSuccYards,PassFailYards,PassTotYards,PassSuccRate,PSuccYPP,PFailYPP,PYPP
+1,Broncos,Yes,17.0,0.0,23.0,40.0,0.425,291.0,-49.0,242.0,7.275,-1.225,6.05,16.0,16.0,32.0,286.0,12.0,298.0,0.5,8.9375,0.375,9.3125

@@ -1,0 +1,2 @@
+Week,Opponent,Start,SuccPlays,PI,FailPlays,TotPlays,SuccRate,SuccYards,FailYards,TotYards,SYardsPerP,FYardsPerP,YardsPerP,PassSuccPlays,PassFailPlays,PassTotPlays,PassSuccYards,PassFailYards,PassTotYards,PassSuccRate,PSuccYPP,PFailYPP,PYPP
+1,Seahawks,Yes,23.0,0.0,17.0,40.0,0.575,323.0,1.0,324.0,8.075,0.025,8.1,23.0,16.0,39.0,323.0,6.0,329.0,0.5897435897435898,8.282051282051283,0.15384615384615385,8.435897435897436

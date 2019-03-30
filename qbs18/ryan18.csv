@@ -1,0 +1,2 @@
+Week,Opponent,Start,SuccPlays,PI,FailPlays,TotPlays,SuccRate,SuccYards,FailYards,TotYards,SYardsPerP,FYardsPerP,YardsPerP,PassSuccPlays,PassFailPlays,PassTotPlays,PassSuccYards,PassFailYards,PassTotYards,PassSuccRate,PSuccYPP,PFailYPP,PYPP
+1,Eagles,Yes,17.0,0.0,31.0,48.0,0.3541666666666667,246.0,-18.0,228.0,5.125,-0.375,4.75,16.0,25.0,41.0,240.0,11.0,251.0,0.3902439024390244,5.853658536585366,0.2682926829268293,6.121951219512195

@@ -1,0 +1,2 @@
+Week,Opponent,Start,SuccPlays,PI,FailPlays,TotPlays,SuccRate,SuccYards,FailYards,TotYards,SYardsPerP,FYardsPerP,YardsPerP,PassSuccPlays,PassFailPlays,PassTotPlays,PassSuccYards,PassFailYards,PassTotYards,PassSuccRate,PSuccYPP,PFailYPP,PYPP
+1,Bengals,Yes,33.0,0.0,22.0,55.0,0.6,304.0,-1.0,303.0,5.527272727272727,-0.01818181818181818,5.509090909090909,32.0,20.0,52.0,297.0,13.0,310.0,0.6153846153846154,5.711538461538462,0.25,5.961538461538462
